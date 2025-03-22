@@ -35,4 +35,5 @@
 
 ## Exercício 8
 
-![Resultado do Exercício 8](img_renderizacao/)
+![Resultado do Exercício 8 - header](img_renderizacao/renderizacao_cv_header.png)
+![Resultado do Exercício 8 - footer](img_renderizacao/renderizacao_cv_footer.png)
